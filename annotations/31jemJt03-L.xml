@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31jemJt03-L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31jemJt03-L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>256</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 4, 5, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 2, 2, 3, 3], 'word_num': [0, 0, 0, 0, 1, 0, 1, 0, 1], 'left': [0, 154, 154, 441, 441, 406, 406, 154, 154], 'top': [0, 38, 38, 38, 38, 158, 158, 205, 205], 'width': [500, 343, 343, 56, 56, 54, 54, 52, 52], 'height': [256, 177, 177, 33, 33, 10, 10, 10, 10], 'conf': [-1, -1, -1, -1, 40, -1, 52, -1, 33], 'text': ['', '', '', '', 'Ties', '', "'213.36em", '', '182.88cm']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

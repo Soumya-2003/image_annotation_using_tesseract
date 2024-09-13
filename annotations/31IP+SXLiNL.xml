@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31IP+SXLiNL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31IP+SXLiNL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>155</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 2, 3, 0, 0, 0, 1], 'left': [0, 19, 19, 19, 19, 128, 243, 88, 88, 88, 88], 'top': [0, 8, 8, 8, 8, 54, 29, 142, 142, 142, 142], 'width': [500, 244, 244, 244, 72, 42, 20, 384, 384, 384, 384], 'height': [155, 83, 83, 83, 83, 29, 15, 7, 7, 7, 7], 'conf': [-1, -1, -1, -1, 7, 61, 52, -1, -1, -1, 95], 'text': ['', '', '', '', 'Ct', 'ee', '<', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>54</ymin>
+			<xmax>170</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31ceoatw+WL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31ceoatw+WL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 4, 5, 4, 5, 2, 3, 4, 5, 5, 2, 3, 4, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 2, 2, 3, 3, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2], 'left': [0, 102, 102, 178, 178, 178, 178, 102, 102, 206, 206, 206, 206, 249, 195, 195, 195, 195, 257], 'top': [0, 63, 63, 63, 63, 246, 246, 354, 354, 291, 291, 291, 291, 297, 349, 349, 349, 349, 356], 'width': [500, 216, 216, 140, 140, 140, 140, 216, 216, 82, 82, 82, 35, 39, 111, 111, 111, 65, 49], 'height': [500, 399, 399, 183, 183, 108, 108, 108, 108, 22, 22, 22, 22, 16, 46, 46, 46, 42, 39], 'conf': [-1, -1, -1, -1, 95, -1, 95, -1, 95, -1, -1, -1, 69, 33, -1, -1, -1, 11, 63], 'text': ['', '', '', '', ' ', '', '    ', '', '   ', '', '', '', 'WOT', 'CHip', '', '', '', 'ec,', 'ut']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WOT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>291</ymin>
+			<xmax>241</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>356</ymin>
+			<xmax>306</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

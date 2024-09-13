@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31Fa4peIYlL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31Fa4peIYlL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>298</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 0, 0, 0, 0, 288, 288, 288, 288, 0, 0, 0, 0], 'top': [0, 0, 0, 0, 0, 18, 18, 18, 18, 30, 30, 30, 30], 'width': [500, 0, 0, 0, 0, 30, 30, 30, 30, 0, 0, 0, 0], 'height': [298, 0, 0, 0, 0, 254, 254, 254, 254, 258, 258, 258, 258], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 0, -1, -1, -1, 95], 'text': ['', '', '', '', ' ', '', '', '', '————EEE.', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

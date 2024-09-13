@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31brJY4xYEL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31brJY4xYEL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>386</width>
+		<height>386</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 150, 150, 150, 150, 126, 126, 126, 126, 96, 96, 96, 96], 'top': [0, 291, 291, 291, 291, 304, 304, 304, 304, 64, 64, 64, 64], 'width': [386, 88, 88, 88, 88, 16, 16, 16, 16, 194, 194, 194, 194], 'height': [386, 16, 16, 16, 16, 24, 24, 24, 24, 322, 322, 322, 322], 'conf': [-1, -1, -1, -1, 96, -1, -1, -1, 54, -1, -1, -1, 95], 'text': ['', '', '', '', 'brownie', '', '', '', '6', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brownie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>291</ymin>
+			<xmax>238</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

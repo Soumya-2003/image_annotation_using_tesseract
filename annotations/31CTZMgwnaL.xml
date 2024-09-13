@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31CTZMgwnaL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31CTZMgwnaL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1], 'left': [0, 222, 222, 223, 223, 222, 222, 94, 94, 94, 94], 'top': [0, 291, 291, 291, 291, 307, 307, 380, 380, 380, 380], 'width': [375, 32, 32, 29, 29, 32, 32, 120, 120, 120, 120], 'height': [500, 25, 25, 9, 9, 9, 9, 14, 14, 14, 14], 'conf': [-1, -1, -1, -1, 1, -1, 6, -1, -1, -1, 95], 'text': ['', '', '', '', 'S.1in', '', 'iim', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

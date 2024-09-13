@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31GPQFRNVFS.jpg</filename>
+	<path>A:\ML Projects\ML\images\31GPQFRNVFS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1], 'left': [0, 654, 654, 654, 654, 658, 658, 433, 433, 433, 433], 'top': [0, 556, 556, 556, 556, 606, 606, 199, 199, 199, 199], 'width': [1000, 59, 59, 59, 59, 44, 44, 133, 133, 133, 133], 'height': [1000, 71, 71, 18, 18, 21, 21, 724, 724, 724, 724], 'conf': [-1, -1, -1, -1, 91, -1, 64, -1, -1, -1, 95], 'text': ['', '', '', '', '21cm', '', '42g', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>21cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>556</ymin>
+			<xmax>713</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>42g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>658</xmin>
+			<ymin>606</ymin>
+			<xmax>702</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>

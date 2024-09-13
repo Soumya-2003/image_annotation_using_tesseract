@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31GciA2leoL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31GciA2leoL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1020</width>
+		<height>1020</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 212, 212, 212, 212, 411, 411, 421, 421, 411, 411, 785, 785, 785, 785, 793, 793, 793, 793], 'top': [0, 563, 563, 563, 563, 588, 588, 588, 588, 634, 634, 382, 382, 382, 382, 436, 436, 436, 436], 'width': [1020, 528, 528, 528, 528, 137, 137, 108, 108, 137, 137, 135, 135, 135, 135, 26, 26, 26, 26], 'height': [1020, 2, 2, 2, 2, 79, 79, 26, 26, 33, 33, 33, 33, 33, 33, 89, 89, 89, 89], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 95, -1, 28, -1, -1, -1, 43, -1, -1, -1, 86], 'text': ['', '', '', '', ' ', '', '', '', '236MM', '', '9.29I1N', '', '', '', '1.221N', '', '', '', 'WWTE']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>236MM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>588</ymin>
+			<xmax>529</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>WWTE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>793</xmin>
+			<ymin>436</ymin>
+			<xmax>819</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

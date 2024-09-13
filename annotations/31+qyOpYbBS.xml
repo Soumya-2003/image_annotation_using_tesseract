@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31+qyOpYbBS.jpg</filename>
+	<path>A:\ML Projects\ML\images\31+qyOpYbBS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 2, 2], 'word_num': [0, 0, 0, 0, 1, 0, 1], 'left': [0, 298, 298, 298, 298, 309, 309], 'top': [0, 482, 482, 482, 482, 517, 517], 'width': [1000, 102, 102, 102, 102, 79, 79], 'height': [1000, 63, 63, 22, 22, 28, 28], 'conf': [-1, -1, -1, -1, 62, -1, 56], 'text': ['', '', '', '', '15.9cm', '', '33.7g']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>15.9cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>482</ymin>
+			<xmax>400</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

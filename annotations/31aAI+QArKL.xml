@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31aAI+QArKL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31aAI+QArKL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 5, 4, 5, 5, 2, 3, 4, 5, 2, 3, 4, 5, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 2, 3, 0, 1, 2, 0, 0, 0, 1, 0, 0, 0, 1, 2, 3], 'left': [0, 27, 27, 27, 27, 139, 228, 140, 140, 218, 139, 139, 139, 139, 931, 931, 931, 934, 931, 934], 'top': [0, 512, 512, 512, 514, 516, 512, 534, 544, 534, 552, 552, 552, 552, 396, 396, 396, 548, 461, 396], 'width': [1000, 280, 280, 266, 73, 68, 65, 167, 66, 89, 68, 68, 68, 68, 19, 19, 19, 13, 19, 13], 'height': [1000, 44, 44, 44, 42, 27, 18, 20, 10, 20, 7, 7, 7, 7, 208, 208, 208, 56, 77, 56], 'conf': [-1, -1, -1, -1, 76, 18, 17, -1, 28, 90, -1, -1, -1, 95, -1, -1, -1, 0, 31, 29], 'text': ['', '', '', '', 'a', 'Tea', '284M', '', 'TisHTiNs', '3000K-6W', '', '', '', ' ', '', '', '', '<o-=', 'WIWSZ', '==>']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>514</ymin>
+			<xmax>100</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>3000K-6W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>534</ymin>
+			<xmax>307</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

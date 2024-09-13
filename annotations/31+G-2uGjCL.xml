@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31+G-2uGjCL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31+G-2uGjCL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>679</width>
+		<height>335</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 5, 2, 3, 4, 5, 2, 3, 4, 5, 4, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 2, 2, 2], 'word_num': [0, 0, 0, 0, 1, 2, 3, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 2], 'left': [0, 643, 643, 643, 643, 643, 643, 16, 16, 16, 16, 233, 233, 233, 233, 504, 504, 625], 'top': [0, 58, 58, 58, 132, 120, 58, 240, 240, 240, 240, 270, 270, 270, 270, 303, 303, 303], 'width': [679, 20, 20, 20, 20, 20, 20, 563, 563, 563, 563, 444, 444, 126, 126, 173, 108, 52], 'height': [335, 128, 128, 128, 54, 5, 57, 23, 23, 23, 23, 63, 63, 20, 20, 30, 30, 30], 'conf': [-1, -1, -1, -1, 19, 34, 15, -1, -1, -1, 95, -1, -1, -1, 27, -1, 96, 96], 'text': ['', '', '', '', 'UIQG', '|', '/W9G', '', '', '', ' ', '', '', '', '15¢m/5.9in', '', 'Weight:', '60g']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Weight:</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>303</ymin>
+			<xmax>612</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>60g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>303</ymin>
+			<xmax>677</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

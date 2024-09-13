@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31a9X9-8VVL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31a9X9-8VVL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>136</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 2, 3], 'left': [0, 26, 26, 26, 22, 50, 73], 'top': [0, 88, 88, 88, 76, 88, 76], 'width': [350, 63, 63, 63, 15, 21, 16], 'height': [136, 7, 7, 7, 28, 7, 28], 'conf': [-1, -1, -1, -1, 38, 0, 24], 'text': ['', '', '', '', 'nr', '2675', '200']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

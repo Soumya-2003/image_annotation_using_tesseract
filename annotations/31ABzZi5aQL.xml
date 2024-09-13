@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31ABzZi5aQL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31ABzZi5aQL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 164, 164, 164, 164, 592, 592, 592, 592, 561, 561, 561, 561, 403, 403, 403, 403], 'top': [0, 103, 103, 103, 103, 501, 501, 501, 501, 154, 154, 154, 154, 848, 848, 848, 848], 'width': [1000, 145, 145, 145, 145, 262, 262, 262, 262, 2, 2, 2, 2, 214, 214, 214, 214], 'height': [1000, 68, 68, 68, 68, 37, 37, 37, 37, 660, 660, 660, 660, 55, 55, 55, 55], 'conf': [-1, -1, -1, -1, 86, -1, -1, -1, 83, -1, -1, -1, 95, -1, -1, -1, 85], 'text': ['', '', '', '', '3W', '', '', '', '82cm/32.28in', '', '', '', ' ', '', '', '', '3cm/1.18in']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>103</ymin>
+			<xmax>309</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>82cm/32.28in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>592</xmin>
+			<ymin>501</ymin>
+			<xmax>854</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>3cm/1.18in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>848</ymin>
+			<xmax>617</xmax>
+			<ymax>903</ymax>
+		</bndbox>
+	</object>
+</annotation>

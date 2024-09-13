@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31fH-XFH97L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31fH-XFH97L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1004</width>
+		<height>1004</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 2], 'left': [0, 504, 504, 504, 504, 480, 480, 480, 480, 358, 358, 358, 358, 334, 334, 334, 334, 425], 'top': [0, 456, 456, 456, 456, 75, 75, 75, 75, 911, 911, 911, 911, 936, 936, 936, 937, 936], 'width': [1004, 179, 179, 179, 179, 1, 1, 1, 1, 101, 101, 101, 101, 182, 182, 182, 79, 91], 'height': [1004, 28, 28, 28, 28, 798, 798, 798, 798, 5, 5, 5, 5, 28, 28, 28, 23, 28], 'conf': [-1, -1, -1, -1, 90, -1, -1, -1, 95, -1, -1, -1, 95, -1, -1, -1, 89, 90], 'text': ['', '', '', '', '13.36in/34cm', '', '', '', ' ', '', '', '', ' ', '', '', '', '0.31in', '/0.8cm']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>13.36in/34cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>456</ymin>
+			<xmax>683</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0.31in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>937</ymin>
+			<xmax>413</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>/0.8cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>936</ymin>
+			<xmax>516</xmax>
+			<ymax>964</ymax>
+		</bndbox>
+	</object>
+</annotation>

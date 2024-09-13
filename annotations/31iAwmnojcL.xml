@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31iAwmnojcL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31iAwmnojcL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1001</width>
+		<height>1001</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 4, 5, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 2, 2, 2, 2], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 2, 3], 'left': [0, 957, 957, 957, 957, 52, 52, 52, 52, 53, 53, 53, 53, 404, 404, 497, 544], 'top': [0, 436, 436, 436, 436, 436, 436, 436, 436, 545, 545, 545, 545, 573, 569, 575, 573], 'width': [1001, 1, 1, 1, 1, 905, 905, 905, 905, 901, 901, 901, 901, 199, 81, 37, 59], 'height': [1001, 66, 66, 66, 66, 85, 85, 85, 85, 54, 54, 18, 18, 26, 39, 23, 22], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 0, -1, -1, -1, 2, -1, 54, 88, 90], 'text': ['', '', '', '', ' ', '', '', '', '—OO', '', '', '', 'A', '', '54CM/', '21.', '26in']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>21.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>575</ymin>
+			<xmax>534</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>26in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>573</ymin>
+			<xmax>603</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>

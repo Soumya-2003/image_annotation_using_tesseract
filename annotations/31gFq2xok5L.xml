@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31gFq2xok5L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31gFq2xok5L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 4, 5, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 2, 2, 2, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 2, 0, 1, 2, 0, 0, 0, 1], 'left': [0, 129, 129, 129, 129, 164, 141, 141, 167, 43, 43, 43, 43], 'top': [0, 110, 110, 110, 114, 110, 128, 128, 128, 2, 2, 2, 2], 'width': [300, 79, 79, 79, 30, 44, 56, 20, 30, 213, 213, 213, 213], 'height': [300, 32, 32, 16, 12, 12, 14, 14, 11, 294, 294, 294, 294], 'conf': [-1, -1, -1, -1, 66, 80, -1, 30, 17, -1, -1, -1, 95], 'text': ['', '', '', '', 'Haldi', 'Powder', '', 'wet', 'TET', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Haldi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>114</ymin>
+			<xmax>159</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Powder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>110</ymin>
+			<xmax>208</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

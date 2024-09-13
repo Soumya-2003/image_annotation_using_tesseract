@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31AdlOJKxPL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31AdlOJKxPL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>1050</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 635, 635, 635, 635, 662, 662, 662, 662], 'top': [0, 176, 176, 176, 176, 501, 501, 501, 501], 'width': [1050, 1, 1, 1, 1, 94, 94, 94, 94], 'height': [1050, 662, 662, 662, 662, 29, 29, 29, 29], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 95], 'text': ['', '', '', '', ' ', '', '', '', '65cm']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>65cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>662</xmin>
+			<ymin>501</ymin>
+			<xmax>756</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>

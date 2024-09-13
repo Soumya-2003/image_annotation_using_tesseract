@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>21im-qaSMoL.jpg</filename>
+	<path>A:\ML Projects\ML\images\21im-qaSMoL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>200</height>
+		<depth>{'level': [1, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1], 'left': [0, 0, 0, 0, 0], 'top': [0, 71, 71, 71, 71], 'width': [150, 0, 0, 0, 0], 'height': [200, 104, 104, 104, 104], 'conf': [-1, -1, -1, -1, 95], 'text': ['', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

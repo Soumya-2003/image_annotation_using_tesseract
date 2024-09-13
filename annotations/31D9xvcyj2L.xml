@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31D9xvcyj2L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31D9xvcyj2L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 5, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 2, 2, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 1, 0, 0, 0, 1], 'left': [0, 199, 199, 199, 199, 362, 362, 362, 362, 392, 362, 362, 146, 146, 146, 146], 'top': [0, 30, 30, 30, 30, 265, 265, 265, 265, 267, 278, 278, 380, 380, 380, 380], 'width': [500, 78, 78, 78, 78, 38, 38, 38, 26, 8, 38, 38, 205, 205, 205, 205], 'height': [500, 20, 20, 20, 20, 21, 21, 8, 8, 6, 8, 8, 80, 80, 80, 80], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 62, 62, -1, 31, -1, -1, -1, 95], 'text': ['', '', '', '', '55cm', '', '', '', '19.09', 'in', '', '48.5cm', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>55cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>30</ymin>
+			<xmax>277</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>19.09</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>265</ymin>
+			<xmax>388</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>267</ymin>
+			<xmax>400</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

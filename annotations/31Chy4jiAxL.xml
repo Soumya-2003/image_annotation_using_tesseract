@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31Chy4jiAxL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31Chy4jiAxL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1007</width>
+		<height>1007</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 2], 'left': [0, 570, 570, 570, 570, 556, 556, 556, 556, 214, 214, 214, 214, 300, 300, 300, 300, 392], 'top': [0, 333, 333, 333, 333, 173, 173, 173, 173, 163, 163, 163, 163, 573, 573, 573, 573, 573], 'width': [1007, 175, 175, 175, 175, 2, 2, 2, 2, 346, 346, 346, 346, 184, 184, 184, 81, 92], 'height': [1007, 29, 29, 29, 29, 344, 344, 344, 344, 389, 389, 389, 389, 29, 29, 29, 24, 29], 'conf': [-1, -1, -1, -1, 90, -1, -1, -1, 95, -1, -1, -1, 95, -1, -1, -1, 89, 89], 'text': ['', '', '', '', '0.86in/2.2cm', '', '', '', ' ', '', '', '', ' ', '', '', '', '0.59in', '/1.5cm']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0.86in/2.2cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymin>333</ymin>
+			<xmax>745</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0.59in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>573</ymin>
+			<xmax>381</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>/1.5cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>573</ymin>
+			<xmax>484</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>

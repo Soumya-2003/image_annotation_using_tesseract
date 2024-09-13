@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31+3AjfiIxL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31+3AjfiIxL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>417</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 235, 235, 235, 235, 107, 107, 107, 107, 288, 288, 288, 288], 'top': [0, 53, 53, 53, 53, 32, 32, 32, 32, 372, 372, 372, 372], 'width': [500, 72, 72, 72, 101, 229, 229, 229, 229, 29, 29, 29, 29], 'height': [417, 138, 138, 138, 138, 274, 274, 274, 274, 10, 10, 10, 10], 'conf': [-1, -1, -1, -1, 79, -1, -1, -1, 0, -1, -1, -1, 21], 'text': ['', '', '', '', 'Ah', '', '', '', '=', '', '', '', 'Fem']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>53</ymin>
+			<xmax>336</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

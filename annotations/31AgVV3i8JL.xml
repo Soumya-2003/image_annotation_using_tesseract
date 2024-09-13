@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31AgVV3i8JL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31AgVV3i8JL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 351, 351, 351, 351, 406, 406, 406, 406, 393, 393, 393, 393, 517, 517, 517, 517, 455, 455, 455, 455, 611, 611, 611, 611], 'top': [0, 592, 592, 592, 592, 448, 448, 448, 448, 823, 823, 823, 823, 445, 445, 445, 445, 921, 921, 921, 921, 322, 322, 322, 322], 'width': [1000, 22, 22, 22, 22, 2, 2, 2, 2, 30, 30, 30, 30, 5, 5, 5, 5, 85, 85, 85, 85, 91, 91, 91, 91], 'height': [1000, 78, 78, 78, 78, 381, 381, 381, 381, 25, 25, 25, 25, 402, 402, 402, 402, 22, 22, 22, 22, 22, 22, 22, 22], 'conf': [-1, -1, -1, -1, 0, -1, -1, -1, 95, -1, -1, -1, 0, -1, -1, -1, 95, -1, -1, -1, 88, -1, -1, -1, 91], 'text': ['', '', '', '', 'WOL?', '', '', '', ' ', '', '', '', 'xt', '', '', '', ' ', '', '', '', '3.5CM', '', '', '', '150CM']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3.5CM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>921</ymin>
+			<xmax>540</xmax>
+			<ymax>943</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>150CM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>322</ymin>
+			<xmax>702</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

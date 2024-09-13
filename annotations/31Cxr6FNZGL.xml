@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31Cxr6FNZGL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31Cxr6FNZGL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>239</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 5, 5, 5, 4, 5, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 3, 4, 0, 1, 2, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 286, 286, 286, 286, 72, 72, 92, 92, 273, 325, 385, 72, 72, 165, 362, 362, 362, 362, 33, 33, 33, 33], 'top': [0, 58, 58, 58, 58, 94, 94, 94, 112, 115, 94, 112, 114, 149, 134, 111, 111, 111, 111, 140, 140, 140, 140], 'width': [500, 91, 91, 91, 91, 317, 317, 297, 79, 2, 10, 4, 289, 4, 57, 76, 76, 76, 76, 59, 59, 59, 59], 'height': [239, 17, 17, 17, 17, 72, 72, 34, 16, 3, 5, 4, 52, 3, 32, 90, 90, 90, 90, 74, 74, 74, 74], 'conf': [-1, -1, -1, -1, 0, -1, -1, -1, 72, 25, 87, 61, -1, 13, 33, -1, -1, -1, 95, -1, -1, -1, 95], 'text': ['', '', '', '', '‘LEGAVIT-KOMPLEX', '', '', '', 'LEGAVIT-KOMPLEX', '7', '=', '2', '', 'aL', 'ie', '', '', '', '  ', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LEGAVIT-KOMPLEX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>112</ymin>
+			<xmax>171</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>=</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>94</ymin>
+			<xmax>335</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>112</ymin>
+			<xmax>389</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

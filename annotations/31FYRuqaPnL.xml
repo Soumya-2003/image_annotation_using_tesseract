@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31FYRuqaPnL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31FYRuqaPnL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1007</width>
+		<height>1007</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 180, 180, 180, 180, 318, 318, 318, 318, 406, 651, 651, 651, 651, 168, 168, 168, 168], 'top': [0, 371, 371, 371, 371, 336, 336, 336, 337, 336, 490, 490, 490, 490, 380, 380, 380, 380], 'width': [1007, 443, 443, 443, 443, 177, 177, 177, 77, 89, 150, 150, 150, 150, 452, 452, 452, 452], 'height': [1007, 1, 1, 1, 1, 27, 27, 27, 22, 27, 28, 28, 28, 28, 196, 196, 196, 196], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 88, 89, -1, -1, -1, 88, -1, -1, -1, 95], 'text': ['', '', '', '', ' ', '', '', '', '3.85in', '/9.8cm', '', '', '', '1.1in/2.8cm', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3.85in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>337</ymin>
+			<xmax>395</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>/9.8cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>336</ymin>
+			<xmax>495</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1.1in/2.8cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>651</xmin>
+			<ymin>490</ymin>
+			<xmax>801</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

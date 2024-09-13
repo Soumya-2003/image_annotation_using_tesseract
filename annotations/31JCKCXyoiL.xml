@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31JCKCXyoiL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31JCKCXyoiL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1001</width>
+		<height>1001</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 476, 476, 476, 476, 789, 789, 789, 789, 0, 0, 0, 0], 'top': [0, 257, 257, 257, 257, 472, 472, 472, 472, 219, 219, 219, 219], 'width': [1001, 80, 80, 80, 80, 19, 19, 19, 19, 0, 0, 0, 0], 'height': [1001, 19, 19, 19, 19, 79, 79, 79, 79, 474, 474, 474, 474], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 96, -1, -1, -1, 95], 'text': ['', '', '', '', '28mm', '', '', '', '25mm', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>28mm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>257</ymin>
+			<xmax>556</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>25mm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>789</xmin>
+			<ymin>472</ymin>
+			<xmax>808</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

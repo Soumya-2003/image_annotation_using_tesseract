@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>21jlhugQNHL.jpg</filename>
+	<path>A:\ML Projects\ML\images\21jlhugQNHL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1], 'left': [0, 206, 206, 209, 209, 206, 206, 256, 256, 256, 256], 'top': [0, 428, 428, 428, 428, 449, 449, 410, 410, 410, 410], 'width': [500, 43, 43, 35, 35, 43, 43, 132, 132, 132, 132], 'height': [500, 33, 33, 12, 12, 12, 12, 70, 70, 70, 70], 'conf': [-1, -1, -1, -1, 91, -1, 87, -1, -1, -1, 95], 'text': ['', '', '', '', '21in', '', '52cm', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>21in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>428</ymin>
+			<xmax>244</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>52cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>449</ymin>
+			<xmax>249</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

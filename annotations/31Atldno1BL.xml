@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31Atldno1BL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31Atldno1BL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1004</width>
+		<height>1004</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5], 'par_num': [0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 2, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 352, 352, 352, 352, 443, 99, 99, 99, 99, 784, 784, 784, 784, 770, 770, 770, 770, 78, 78, 78, 78], 'top': [0, 195, 195, 195, 196, 195, 226, 226, 226, 226, 502, 502, 502, 502, 252, 252, 252, 252, 224, 224, 224, 224], 'width': [1004, 175, 175, 175, 81, 84, 633, 633, 633, 633, 175, 175, 175, 175, 2, 2, 2, 2, 700, 700, 700, 700], 'height': [1004, 29, 29, 29, 25, 29, 2, 2, 2, 2, 29, 29, 29, 29, 476, 476, 476, 476, 554, 554, 554, 554], 'conf': [-1, -1, -1, -1, 90, 88, -1, -1, -1, 95, -1, -1, -1, 89, -1, -1, -1, 95, -1, -1, -1, 95], 'text': ['', '', '', '', '3.93in', '/10cm', '', '', '', ' ', '', '', '', '2.95in/7.5cm', '', '', '', ' ', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3.93in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>196</ymin>
+			<xmax>433</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>/10cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>195</ymin>
+			<xmax>527</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2.95in/7.5cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>502</ymin>
+			<xmax>959</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31H6T1-SsmS.jpg</filename>
+	<path>A:\ML Projects\ML\images\31H6T1-SsmS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1], 'left': [0, 137, 137, 137, 137], 'top': [0, 55, 55, 55, 55], 'width': [500, 363, 363, 363, 363], 'height': [500, 393, 393, 393, 393], 'conf': [-1, -1, -1, -1, 95], 'text': ['', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

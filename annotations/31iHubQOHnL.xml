@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31iHubQOHnL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31iHubQOHnL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1031</width>
+		<height>1031</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 290, 290, 290, 290, 199, 199, 199, 199], 'top': [0, 92, 92, 92, 92, 853, 853, 853, 853], 'width': [1031, 402, 402, 402, 402, 569, 569, 569, 569], 'height': [1031, 676, 676, 676, 676, 39, 39, 39, 39], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 68], 'text': ['', '', '', '', ' ', '', '', '', 'SIZE:90*40*40cm/35.4*15.7415.7in']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SIZE:90*40*40cm/35.4*15.7415.7in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>853</ymin>
+			<xmax>768</xmax>
+			<ymax>892</ymax>
+		</bndbox>
+	</object>
+</annotation>

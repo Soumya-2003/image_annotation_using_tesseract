@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31AHANIL6SL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31AHANIL6SL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 404, 404, 404, 404, 748, 748, 748, 748], 'top': [0, 863, 863, 863, 863, 48, 48, 48, 48], 'width': [1000, 66, 66, 66, 66, 222, 222, 222, 222], 'height': [1000, 24, 24, 24, 24, 206, 206, 206, 206], 'conf': [-1, -1, -1, -1, 86, -1, -1, -1, 95], 'text': ['', '', '', '', '40mm', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>40mm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>863</ymin>
+			<xmax>470</xmax>
+			<ymax>887</ymax>
+		</bndbox>
+	</object>
+</annotation>

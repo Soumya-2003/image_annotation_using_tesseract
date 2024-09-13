@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31ayCHuwtgL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31ayCHuwtgL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1100</width>
+		<height>1100</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 2], 'left': [0, 221, 221, 221, 221, 502, 502, 502, 502, 536], 'top': [0, 386, 386, 386, 386, 726, 726, 726, 726, 726], 'width': [1100, 657, 657, 657, 657, 68, 68, 68, 28, 34], 'height': [1100, 338, 338, 338, 338, 18, 18, 18, 18, 18], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 64, 32], 'text': ['', '', '', '', ' ', '', '', '', '21.', '9m']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>21.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>726</ymin>
+			<xmax>530</xmax>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+</annotation>

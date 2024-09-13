@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31Fu0bD1aML.jpg</filename>
+	<path>A:\ML Projects\ML\images\31Fu0bD1aML.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>410</height>
+		<depth>{'level': [1, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1], 'left': [0, 50, 50, 50, 50], 'top': [0, 40, 40, 40, 40], 'width': [375, 298, 298, 298, 298], 'height': [410, 296, 296, 296, 296], 'conf': [-1, -1, -1, -1, 95], 'text': ['', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

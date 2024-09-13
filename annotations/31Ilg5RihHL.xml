@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31Ilg5RihHL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31Ilg5RihHL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 138, 138, 138, 138, 172, 172, 172, 172], 'top': [0, 438, 438, 438, 438, 570, 570, 570, 570], 'width': [1024, 867, 867, 867, 867, 31, 31, 31, 31], 'height': [1024, 149, 149, 149, 149, 25, 25, 25, 25], 'conf': [-1, -1, -1, -1, 0, -1, -1, -1, 61], 'text': ['', '', '', '', 'Prryyyrryy', '', '', '', 'iis']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>570</ymin>
+			<xmax>203</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>

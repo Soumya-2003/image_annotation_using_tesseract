@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31AWAUPGnHL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31AWAUPGnHL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>721</width>
+		<height>1024</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 2], 'left': [0, 265, 265, 265, 265, 505, 505, 505, 505, 505], 'top': [0, 73, 73, 73, 73, 516, 516, 516, 564, 516], 'width': [721, 197, 197, 197, 197, 25, 25, 25, 19, 25], 'height': [1024, 241, 241, 241, 241, 90, 90, 90, 42, 35], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 39, 89], 'text': ['', '', '', '', ' ', '', '', '', 'WD', '6Z']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>516</ymin>
+			<xmax>530</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

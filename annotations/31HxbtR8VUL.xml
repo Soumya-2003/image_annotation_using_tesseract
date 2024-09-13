@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31HxbtR8VUL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31HxbtR8VUL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 4, 5, 2, 3, 4, 5, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4], 'par_num': [0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1, 2, 2], 'word_num': [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1], 'left': [0, 312, 312, 312, 312, 312, 312, 145, 145, 145, 145, 140, 140, 140, 140, 140, 140, 251, 251, 251, 251, 251, 251], 'top': [0, 308, 308, 308, 308, 318, 318, 73, 73, 73, 73, 471, 471, 471, 471, 480, 480, 476, 476, 476, 476, 486, 486], 'width': [500, 30, 30, 30, 30, 27, 27, 155, 155, 155, 155, 36, 36, 30, 30, 36, 36, 36, 36, 30, 30, 36, 36], 'height': [500, 18, 18, 8, 8, 8, 8, 398, 398, 398, 398, 17, 17, 7, 7, 8, 8, 17, 17, 8, 8, 7, 7], 'conf': [-1, -1, -1, -1, 86, -1, 0, -1, -1, -1, 95, -1, -1, -1, 67, -1, 22, -1, -1, -1, 70, -1, 11], 'text': ['', '', '', '', '25.20"', '', 'baem', '', '', '', ' ', '', '', '', 'or', '', '30Sem', '', '', '', '1476"', '', '33cm']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>25.20"</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>308</ymin>
+			<xmax>342</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>or</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>471</ymin>
+			<xmax>170</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1476"</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>476</ymin>
+			<xmax>281</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

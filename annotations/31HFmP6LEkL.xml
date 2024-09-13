@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31HFmP6LEkL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31HFmP6LEkL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 5, 4, 5, 5, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 1, 2, 3, 4], 'left': [0, 42, 42, 42, 42, 291, 291, 321, 321, 361, 291, 291, 350, 377, 416], 'top': [0, 110, 110, 110, 110, 305, 305, 305, 305, 307, 333, 333, 336, 336, 336], 'width': [500, 390, 390, 390, 390, 152, 152, 66, 23, 26, 152, 42, 20, 32, 27], 'height': [375, 120, 120, 120, 120, 46, 46, 17, 16, 15, 18, 18, 13, 13, 13], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 24, 29, -1, 57, 76, 33, 53], 'text': ['', '', '', '', ' ', '', '', '', 'WH:', '1g', '', 'Rest:', '10.', '543.', 'Sem']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>336</ymin>
+			<xmax>370</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

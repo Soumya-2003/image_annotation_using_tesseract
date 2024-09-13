@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31c5Ufx-CaS.jpg</filename>
+	<path>A:\ML Projects\ML\images\31c5Ufx-CaS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 16, 16, 16, 16, 100, 100, 100, 100], 'top': [0, 531, 531, 531, 531, 313, 313, 313, 313], 'width': [1024, 21, 21, 21, 21, 912, 912, 912, 912], 'height': [1024, 78, 78, 78, 78, 399, 399, 399, 399], 'conf': [-1, -1, -1, -1, 87, -1, -1, -1, 95], 'text': ['', '', '', '', '31cm', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>31cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>531</ymin>
+			<xmax>37</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

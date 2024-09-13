@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31EQkOt+vsL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31EQkOt+vsL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 288, 288, 288, 288, 737, 737, 737, 737, 469, 469, 469, 469], 'top': [0, 234, 234, 234, 234, 500, 500, 500, 500, 789, 789, 789, 789], 'width': [1000, 402, 402, 402, 402, 89, 89, 89, 89, 62, 62, 62, 62], 'height': [1000, 216, 216, 216, 216, 21, 21, 21, 21, 22, 22, 22, 22], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 67, -1, -1, -1, 89], 'text': ['', '', '', '', ' ', '', '', '', '8.1cm', '', '', '', '7cm']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8.1cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>500</ymin>
+			<xmax>826</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>7cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>789</ymin>
+			<xmax>531</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+</annotation>

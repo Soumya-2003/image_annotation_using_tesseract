@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31+rM0NMaUL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31+rM0NMaUL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 2, 2], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1], 'left': [0, 69, 69, 69, 69, 88, 88, 88, 88, 237, 237, 237, 237, 241, 241], 'top': [0, 188, 188, 188, 188, 347, 347, 347, 347, 362, 362, 362, 362, 373, 373], 'width': [500, 420, 420, 420, 420, 330, 330, 330, 330, 32, 32, 32, 32, 24, 24], 'height': [500, 144, 144, 144, 144, 2, 2, 2, 2, 22, 22, 10, 10, 11, 11], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 95, -1, -1, -1, 67, -1, 71], 'text': ['', '', '', '', ' ', '', '', '', ' ', '', '', '', '56cm', '', '22in']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>56cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>362</ymin>
+			<xmax>269</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>22in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>373</ymin>
+			<xmax>265</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

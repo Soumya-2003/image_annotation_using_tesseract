@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31GEJ-8DAiL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31GEJ-8DAiL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>342</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 3], 'left': [0, 4, 4, 4, 4, 265, 265, 265, 265, 304, 337], 'top': [0, 3, 3, 3, 3, 322, 322, 322, 323, 322, 325], 'width': [352, 251, 251, 251, 251, 85, 85, 85, 34, 29, 13], 'height': [342, 293, 293, 293, 293, 17, 17, 17, 12, 13, 14], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 96, 93, 91], 'text': ['', '', '', '', ' ', '', '', '', 'Peso', '450', 'g.']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>323</ymin>
+			<xmax>299</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>450</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>322</ymin>
+			<xmax>333</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>g.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>325</ymin>
+			<xmax>350</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

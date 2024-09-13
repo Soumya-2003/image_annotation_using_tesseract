@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31bt5k4Ul3L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31bt5k4Ul3L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 5, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 3, 0, 0, 0, 1], 'left': [0, 111, 111, 111, 111, 116, 116, 116, 116, 454, 882, 132, 132, 132, 132], 'top': [0, 455, 455, 455, 455, 574, 574, 574, 574, 576, 574, 586, 586, 586, 586], 'width': [1000, 776, 776, 776, 776, 769, 769, 769, 17, 80, 3, 735, 735, 735, 735], 'height': [1000, 83, 83, 83, 83, 24, 24, 24, 22, 22, 22, 2, 2, 2, 2], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 65, 91, 73, -1, -1, -1, 95], 'text': ['', '', '', '', ' ', '', '', '', 'lk', '105cm', '|', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>574</ymin>
+			<xmax>133</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>105cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>576</ymin>
+			<xmax>534</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>|</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>882</xmin>
+			<ymin>574</ymin>
+			<xmax>885</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

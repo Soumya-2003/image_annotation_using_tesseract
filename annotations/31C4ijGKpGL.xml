@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31C4ijGKpGL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31C4ijGKpGL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 209, 209, 209, 209, 430, 430, 430, 430, 349, 349, 349, 349, 451, 451, 451, 451, 439, 439, 439, 439, 0, 0, 0, 0], 'top': [0, 127, 127, 127, 127, 151, 151, 151, 151, 192, 192, 192, 192, 264, 264, 264, 259, 360, 360, 360, 360, 134, 134, 134, 134], 'width': [500, 87, 87, 87, 87, 55, 55, 55, 55, 108, 108, 108, 108, 27, 27, 27, 34, 28, 28, 28, 28, 0, 0, 0, 0], 'height': [500, 13, 13, 13, 13, 79, 79, 79, 79, 150, 150, 150, 150, 42, 42, 42, 47, 7, 7, 7, 7, 350, 350, 350, 350], 'conf': [-1, -1, -1, -1, 70, -1, -1, -1, 35, -1, -1, -1, 54, -1, -1, -1, 1, -1, -1, -1, 63, -1, -1, -1, 95], 'text': ['', '', '', '', 'Hontage-Varianten', '', '', '', 'aw', '', '', '', 'A', '', '', '', 'SS).', '', '', '', 'i', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hontage-Varianten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>127</ymin>
+			<xmax>296</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>360</ymin>
+			<xmax>467</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

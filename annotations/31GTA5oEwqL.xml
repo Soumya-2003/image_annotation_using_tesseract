@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31GTA5oEwqL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31GTA5oEwqL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1222</width>
+		<height>1222</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 5, 5, 5, 2, 3, 4, 5, 2, 3, 4, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 2, 3, 4, 5, 0, 0, 0, 1, 0, 0, 0, 1, 2], 'left': [0, 958, 958, 958, 958, 1010, 1041, 1063, 1114, 184, 184, 184, 184, 425, 425, 425, 425, 532], 'top': [0, 564, 564, 564, 564, 565, 564, 565, 572, 733, 733, 733, 733, 766, 766, 766, 766, 767], 'width': [1222, 192, 192, 192, 39, 20, 11, 39, 36, 665, 665, 665, 665, 183, 183, 183, 93, 76], 'height': [1222, 28, 28, 28, 23, 22, 28, 24, 17, 13, 13, 13, 13, 28, 28, 28, 28, 24], 'conf': [-1, -1, -1, -1, 91, 39, 39, 42, 42, -1, -1, -1, 95, -1, -1, -1, 84, 82], 'text': ['', '', '', '', '3.3', 'in', '/', '8.5', 'cm', '', '', '', ' ', '', '', '', '7.4in/', '19cm']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3.3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>958</xmin>
+			<ymin>564</ymin>
+			<xmax>997</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>7.4in/</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>766</ymin>
+			<xmax>518</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>19cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>767</ymin>
+			<xmax>608</xmax>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+</annotation>

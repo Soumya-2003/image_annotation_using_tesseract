@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31fQaJ94LvL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31fQaJ94LvL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>1011</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 125, 125, 125, 125, 383, 383, 383, 383, 61, 61, 61, 61], 'top': [0, 14, 14, 14, 14, 507, 507, 507, 507, 60, 60, 60, 60], 'width': [528, 53, 53, 53, 53, 63, 63, 63, 63, 301, 301, 301, 301], 'height': [1011, 17, 17, 17, 17, 17, 17, 17, 17, 912, 912, 912, 912], 'conf': [-1, -1, -1, -1, 86, -1, -1, -1, 82, -1, -1, -1, 95], 'text': ['', '', '', '', '47cm', '', '', '', '151cm', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>47cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>14</ymin>
+			<xmax>178</xmax>
+			<ymax>31</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>151cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>507</ymin>
+			<xmax>446</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

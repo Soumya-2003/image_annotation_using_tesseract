@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31enzRiBiWL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31enzRiBiWL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 84, 84, 84, 84, 505, 505, 505, 505, 418, 418, 418, 418], 'top': [0, 448, 448, 448, 448, 703, 703, 703, 703, 927, 927, 927, 927], 'width': [1000, 76, 76, 76, 76, 93, 93, 93, 93, 260, 260, 260, 260], 'height': [1000, 22, 22, 22, 22, 21, 21, 21, 21, 22, 22, 22, 22], 'conf': [-1, -1, -1, -1, 58, -1, -1, -1, 69, -1, -1, -1, 77], 'text': ['', '', '', '', 'cinch', '', '', '', '1Zinch', '', '', '', 'xThickness:0.025']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1Zinch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>703</ymin>
+			<xmax>598</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>xThickness:0.025</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>927</ymin>
+			<xmax>678</xmax>
+			<ymax>949</ymax>
+		</bndbox>
+	</object>
+</annotation>

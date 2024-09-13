@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31ckttBUVSL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31ckttBUVSL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>1002</height>
+		<depth>{'level': [1], 'page_num': [1], 'block_num': [0], 'par_num': [0], 'line_num': [0], 'word_num': [0], 'left': [0], 'top': [0], 'width': [1050], 'height': [1002], 'conf': [-1], 'text': ['']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

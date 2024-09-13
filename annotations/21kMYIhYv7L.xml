@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>21kMYIhYv7L.jpg</filename>
+	<path>A:\ML Projects\ML\images\21kMYIhYv7L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 2, 2], 'word_num': [0, 0, 0, 0, 1, 0, 1], 'left': [0, 189, 189, 189, 189, 189, 189], 'top': [0, 249, 249, 249, 249, 265, 265], 'width': [375, 31, 31, 29, 29, 31, 31], 'height': [500, 25, 25, 9, 9, 9, 9], 'conf': [-1, -1, -1, -1, 0, -1, 85], 'text': ['', '', '', '', '76in', '', '19cm']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>19cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>265</ymin>
+			<xmax>220</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

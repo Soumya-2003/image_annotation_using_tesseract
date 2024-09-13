@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>21+quvMwZSL.jpg</filename>
+	<path>A:\ML Projects\ML\images\21+quvMwZSL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>220</height>
+		<depth>{'level': [1, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1], 'left': [0, 43, 43, 43, 43], 'top': [0, 20, 20, 20, 20], 'width': [220, 134, 134, 134, 134], 'height': [220, 180, 180, 180, 180], 'conf': [-1, -1, -1, -1, 95], 'text': ['', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

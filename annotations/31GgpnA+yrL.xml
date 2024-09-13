@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31GgpnA+yrL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31GgpnA+yrL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1001</width>
+		<height>1001</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4], 'par_num': [0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 2, 2], 'word_num': [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1], 'left': [0, 683, 683, 683, 683, 683, 683, 673, 673, 673, 673, 285, 285, 285, 285, 353, 353, 353, 353, 392, 392], 'top': [0, 389, 389, 389, 389, 440, 440, 215, 215, 215, 215, 693, 693, 693, 693, 706, 706, 706, 706, 756, 756], 'width': [1001, 125, 125, 125, 125, 125, 125, 1, 1, 1, 1, 371, 371, 371, 371, 229, 229, 229, 229, 155, 155], 'height': [1001, 86, 86, 35, 35, 35, 35, 452, 452, 452, 452, 1, 1, 1, 1, 95, 95, 35, 35, 45, 45], 'conf': [-1, -1, -1, -1, 90, -1, 86, -1, -1, -1, 95, -1, -1, -1, 95, -1, -1, -1, 49, -1, 84], 'text': ['', '', '', '', '9.6cm', '', '3.78in', '', '', '', ' ', '', '', '', ' ', '', '', '', '7com/2.76in', '', '(50pcs)']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9.6cm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>683</xmin>
+			<ymin>389</ymin>
+			<xmax>808</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>3.78in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>683</xmin>
+			<ymin>440</ymin>
+			<xmax>808</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>(50pcs)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>756</ymin>
+			<xmax>547</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	</object>
+</annotation>

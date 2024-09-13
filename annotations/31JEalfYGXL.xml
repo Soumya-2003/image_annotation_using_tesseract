@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31JEalfYGXL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31JEalfYGXL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1083</width>
+		<height>1083</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 2, 2], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1], 'left': [0, 487, 487, 487, 487, 702, 702, 702, 702, 402, 402, 408, 408, 402, 402], 'top': [0, 93, 93, 93, 93, 554, 554, 554, 554, 940, 940, 940, 940, 969, 969], 'width': [1083, 96, 96, 96, 96, 196, 196, 196, 196, 262, 262, 251, 251, 262, 262], 'height': [1083, 30, 30, 30, 30, 28, 28, 28, 28, 59, 59, 22, 22, 30, 30], 'conf': [-1, -1, -1, -1, 93, -1, -1, -1, 40, -1, -1, -1, 0, -1, 86], 'text': ['', '', '', '', '400m!', '', '', '', '178mm/7in', '', '', '', '——', '', '60.5mm/2.38in']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>400m!</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>93</ymin>
+			<xmax>583</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>60.5mm/2.38in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>969</ymin>
+			<xmax>664</xmax>
+			<ymax>999</ymax>
+		</bndbox>
+	</object>
+</annotation>

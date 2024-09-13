@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31glsJo7NpL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31glsJo7NpL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 5, 5, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 3, 4, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 211, 211, 211, 211, 189, 189, 189, 189, 205, 250, 261, 193, 193, 193, 193, 179, 179, 179, 179], 'top': [0, 134, 134, 134, 134, 312, 312, 312, 321, 312, 307, 312, 309, 309, 309, 309, 41, 41, 41, 41], 'width': [500, 57, 57, 57, 57, 98, 98, 98, 4, 82, 3, 26, 11, 11, 11, 11, 129, 129, 129, 129], 'height': [500, 20, 20, 20, 20, 32, 32, 32, 23, 14, 28, 14, 11, 11, 11, 11, 435, 435, 435, 435], 'conf': [-1, -1, -1, -1, 89, -1, -1, -1, 2, 13, 59, 67, -1, -1, -1, 48, -1, -1, -1, 95], 'text': ['', '', '', '', 'Whittard', '', '', '', 'h', 'DARK', 'a', 'WHITE', '', '', '', 'uy', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Whittard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>134</ymin>
+			<xmax>268</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>WHITE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>312</ymin>
+			<xmax>287</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

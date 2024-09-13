@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31eY7PB27-L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31eY7PB27-L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>123</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 5, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 2, 3, 4, 0, 0, 0, 1], 'left': [0, 22, 22, 22, 22, 43, 122, 147, 21, 21, 21, 21], 'top': [0, 5, 5, 5, 0, 5, 5, 5, 16, 16, 16, 16], 'width': [400, 168, 168, 168, 18, 76, 22, 43, 379, 379, 379, 379], 'height': [123, 8, 8, 8, 22, 7, 8, 8, 107, 107, 107, 107], 'conf': [-1, -1, -1, -1, 23, 20, 72, 58, -1, -1, -1, 95], 'text': ['', '', '', '', '«24H', '-Rocommended', 'dolly', 'quantities', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dolly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>5</ymin>
+			<xmax>144</xmax>
+			<ymax>13</ymax>
+		</bndbox>
+	</object>
+</annotation>

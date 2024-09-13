@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31Aprw5mTPL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31Aprw5mTPL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>203</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1], 'left': [0, 68, 68, 118, 118, 68, 68, 116, 116, 116, 116], 'top': [0, 12, 12, 12, 12, 61, 58, 105, 105, 105, 105], 'width': [416, 284, 284, 186, 186, 284, 284, 188, 188, 188, 188], 'height': [203, 110, 95, 46, 46, 61, 64, 22, 22, 22, 22], 'conf': [-1, -1, -1, -1, 74, -1, 91, -1, -1, -1, 96], 'text': ['', '', '', '', 'PATANJALD,', '', 'Shilajit', '', '', '', 'Capsule']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PATANJALD,</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>12</ymin>
+			<xmax>304</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shilajit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>58</ymin>
+			<xmax>352</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Capsule</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>105</ymin>
+			<xmax>304</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

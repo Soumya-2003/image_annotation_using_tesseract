@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31+sQPvMbQL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31+sQPvMbQL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>296</height>
+		<depth>{'level': [1, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1], 'left': [0, 63, 63, 63, 63], 'top': [0, 11, 11, 11, 11], 'width': [296, 169, 169, 169, 169], 'height': [296, 273, 273, 273, 273], 'conf': [-1, -1, -1, -1, 95], 'text': ['', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

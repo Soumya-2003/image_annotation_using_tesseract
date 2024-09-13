@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31cOui9Pa+L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31cOui9Pa+L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>274</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1], 'left': [0, 313, 313, 313, 313, 447, 447, 447, 447, 450, 450, 38, 38, 38, 38], 'top': [0, 82, 82, 82, 82, 64, 64, 64, 64, 104, 104, 100, 100, 100, 100], 'width': [500, 59, 59, 59, 59, 13, 13, 13, 13, 9, 9, 426, 426, 426, 426], 'height': [274, 16, 16, 16, 16, 88, 88, 24, 24, 48, 48, 150, 150, 150, 150], 'conf': [-1, -1, -1, -1, 91, -1, -1, -1, 5, -1, 45, -1, -1, -1, 95], 'text': ['', '', '', '', 'GASTROSEL', '', '', '', ':', '', '|', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GASTROSEL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>82</ymin>
+			<xmax>372</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

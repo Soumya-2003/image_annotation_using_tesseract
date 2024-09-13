@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>21eGzwhsflL.jpg</filename>
+	<path>A:\ML Projects\ML\images\21eGzwhsflL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>682</width>
+		<height>1024</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 5, 4, 5, 2, 3, 4, 5, 4, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 2, 2, 0, 0, 1, 1, 2, 2, 2], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 1, 0, 0, 0, 1, 0, 1, 2], 'left': [0, 80, 80, 80, 80, 79, 79, 79, 79, 79, 79, 79, 79, 530, 530, 530, 530, 559, 543, 543, 282, 282, 303, 303, 282, 282, 305], 'top': [0, 492, 492, 492, 492, 524, 524, 524, 524, 555, 555, 555, 555, 489, 489, 489, 489, 504, 529, 529, 549, 549, 549, 549, 569, 569, 569], 'width': [682, 492, 492, 492, 492, 493, 493, 493, 493, 458, 458, 458, 458, 77, 77, 77, 22, 48, 1, 1, 46, 46, 1, 1, 46, 18, 23], 'height': [1024, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 68, 68, 39, 39, 10, 28, 28, 30, 30, 12, 12, 10, 10, 10], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 95, -1, -1, -1, 95, -1, -1, -1, 83, 38, -1, 64, -1, -1, -1, 47, -1, 4, 4], 'text': ['', '', '', '', ' ', '', '', '', ' ', '', '', '', ' ', '', '', '', 'IF', '1.7m', '', '|', '', '', '', '|', '', '55', 'CM']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IF</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>489</ymin>
+			<xmax>552</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>|</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>529</ymin>
+			<xmax>544</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

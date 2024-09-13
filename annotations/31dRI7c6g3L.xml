@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31dRI7c6g3L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31dRI7c6g3L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 959, 959, 959, 959, 314, 314, 314, 314, 565, 565, 565, 565], 'top': [0, 568, 568, 568, 568, 428, 428, 428, 428, 781, 781, 781, 781], 'width': [1200, 50, 50, 50, 50, 548, 548, 548, 548, 51, 51, 51, 51], 'height': [1200, 16, 16, 16, 16, 334, 334, 334, 334, 19, 19, 19, 19], 'conf': [-1, -1, -1, -1, 89, -1, -1, -1, 95, -1, -1, -1, 86], 'text': ['', '', '', '', '6.1in', '', '', '', ' ', '', '', '', '12in']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6.1in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>959</xmin>
+			<ymin>568</ymin>
+			<xmax>1009</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>12in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>781</ymin>
+			<xmax>616</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

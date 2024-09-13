@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31dBg82ugxL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31dBg82ugxL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1095</width>
+		<height>1028</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 5, 2, 3, 4, 5, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1], 'left': [0, 443, 443, 443, 443, 433, 433, 433, 429, 452, 431, 431, 431, 431, 459, 344, 344, 344, 344], 'top': [0, 502, 502, 502, 502, 537, 537, 537, 525, 525, 565, 565, 565, 565, 565, 384, 384, 384, 384], 'width': [1095, 25, 25, 25, 25, 45, 45, 45, 17, 26, 54, 54, 54, 21, 26, 412, 412, 412, 412], 'height': [1028, 9, 9, 9, 9, 7, 7, 7, 28, 28, 7, 7, 7, 6, 7, 262, 262, 262, 262], 'conf': [-1, -1, -1, -1, 67, -1, -1, -1, 21, 45, -1, -1, -1, 31, 78, -1, -1, -1, 95], 'text': ['', '', '', '', 'FSC', '', '', '', '56', 'cs', '', '', '', 'NUTO', 'DELLA', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FSC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>502</ymin>
+			<xmax>468</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DELLA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>459</xmin>
+			<ymin>565</ymin>
+			<xmax>485</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

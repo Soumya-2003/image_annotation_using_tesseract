@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31aKXrkpU3L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31aKXrkpU3L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 207, 207, 207, 207, 92, 92, 92, 92], 'top': [0, 193, 193, 193, 193, 42, 42, 42, 42], 'width': [500, 97, 97, 97, 97, 322, 322, 322, 322], 'height': [500, 21, 21, 21, 21, 420, 420, 420, 420], 'conf': [-1, -1, -1, -1, 90, -1, -1, -1, 95], 'text': ['', '', '', '', 'amazonbasics', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amazonbasics</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>193</ymin>
+			<xmax>304</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

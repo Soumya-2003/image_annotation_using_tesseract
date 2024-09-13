@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31IPGSQlCML.jpg</filename>
+	<path>A:\ML Projects\ML\images\31IPGSQlCML.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1001</width>
+		<height>1001</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 5, 2, 3, 4, 5, 2, 3, 4, 5, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 2, 3, 0, 0, 0, 1, 0, 0, 0, 1, 2, 3], 'left': [0, 444, 444, 444, 440, 475, 547, 349, 349, 349, 349, 425, 425, 425, 425, 479, 571], 'top': [0, 33, 33, 33, 29, 37, 33, 65, 65, 65, 65, 954, 954, 954, 954, 958, 954], 'width': [1001, 129, 129, 129, 21, 65, 26, 237, 237, 237, 237, 165, 165, 165, 46, 58, 19], 'height': [1001, 25, 25, 25, 36, 19, 25, 875, 875, 875, 875, 25, 25, 25, 25, 19, 25], 'conf': [-1, -1, -1, -1, 30, 30, 89, -1, -1, -1, 95, -1, -1, -1, 10, 58, 73], 'text': ['', '', '', '', 'KF', '7.6cm', '4', '', '', '', ' ', '', '', '', 'kK', '17cm', '4']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>33</ymin>
+			<xmax>573</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>571</xmin>
+			<ymin>954</ymin>
+			<xmax>590</xmax>
+			<ymax>979</ymax>
+		</bndbox>
+	</object>
+</annotation>

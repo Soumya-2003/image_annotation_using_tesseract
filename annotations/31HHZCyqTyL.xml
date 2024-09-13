@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31HHZCyqTyL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31HHZCyqTyL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 202, 202, 202, 202, 171, 171, 171, 171, 170, 170, 170, 170], 'top': [0, 185, 185, 185, 185, 39, 39, 39, 39, 380, 380, 380, 380], 'width': [500, 97, 97, 97, 97, 157, 157, 157, 157, 160, 160, 160, 160], 'height': [500, 14, 14, 14, 14, 191, 191, 191, 191, 80, 80, 80, 80], 'conf': [-1, -1, -1, -1, 89, -1, -1, -1, 95, -1, -1, -1, 95], 'text': ['', '', '', '', 'DAVIDOFF', '', '', '', ' ', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DAVIDOFF</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>185</ymin>
+			<xmax>299</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

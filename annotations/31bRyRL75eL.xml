@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31bRyRL75eL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31bRyRL75eL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 2], 'left': [0, 355, 355, 355, 355, 489, 489, 489, 489, 524, 524, 524, 524, 628, 628, 628, 628, 641, 641, 641, 641, 641], 'top': [0, 252, 252, 252, 252, 339, 339, 339, 339, 803, 803, 803, 803, 210, 210, 210, 210, 458, 458, 458, 491, 458], 'width': [1000, 59, 59, 59, 59, 1, 1, 1, 1, 66, 66, 66, 66, 2, 2, 2, 2, 25, 25, 25, 25, 25], 'height': [1000, 15, 15, 15, 15, 52, 52, 52, 52, 18, 18, 18, 18, 577, 577, 577, 577, 79, 79, 79, 46, 23], 'conf': [-1, -1, -1, -1, 92, -1, -1, -1, 95, -1, -1, -1, 0, -1, -1, -1, 95, -1, -1, -1, 66, 53], 'text': ['', '', '', '', 'GRATIS', '', '', '', ' ', '', '', '', 'p22an4', '', '', '', ' ', '', '', '', 'WD', 'gL']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GRATIS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>252</ymin>
+			<xmax>414</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>WD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>641</xmin>
+			<ymin>491</ymin>
+			<xmax>666</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

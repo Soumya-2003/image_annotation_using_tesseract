@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31cA2VtuAFL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31cA2VtuAFL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 2, 0, 0, 0, 1], 'left': [0, 201, 201, 201, 201, 383, 36, 36, 36, 36], 'top': [0, 19, 19, 19, 21, 19, 83, 83, 83, 83], 'width': [485, 271, 271, 271, 174, 89, 432, 432, 432, 432], 'height': [500, 29, 29, 29, 27, 27, 370, 370, 370, 370], 'conf': [-1, -1, -1, -1, 88, 13, -1, -1, -1, 95], 'text': ['', '', '', '', 'WEIGHTED:', '1.35lb', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WEIGHTED:</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>21</ymin>
+			<xmax>375</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>

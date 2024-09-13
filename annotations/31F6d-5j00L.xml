@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31F6d-5j00L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31F6d-5j00L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 524, 524, 524, 524, 222, 222, 222, 222, 181, 181, 181, 181], 'top': [0, 111, 111, 111, 111, 154, 154, 154, 154, 194, 194, 194, 194], 'width': [1080, 32, 32, 32, 32, 636, 636, 636, 636, 2, 2, 2, 2], 'height': [1080, 27, 27, 27, 27, 2, 2, 2, 2, 643, 643, 643, 643], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 95, -1, -1, -1, 95], 'text': ['', '', '', '', '5"', '', '', '', ' ', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5"</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>111</ymin>
+			<xmax>556</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

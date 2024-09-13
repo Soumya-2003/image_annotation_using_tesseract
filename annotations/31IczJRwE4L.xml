@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31IczJRwE4L.jpg</filename>
+	<path>A:\ML Projects\ML\images\31IczJRwE4L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 5, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 1, 1], 'word_num': [0, 0, 0, 0, 1, 2, 3], 'left': [0, 44, 44, 44, 44, 130, 384], 'top': [0, 231, 231, 231, 232, 231, 231], 'width': [500, 413, 413, 413, 73, 181, 73], 'height': [500, 39, 39, 39, 28, 29, 39], 'conf': [-1, -1, -1, -1, 92, 80, 80], 'text': ['', '', '', '', 'NET', 'WEIGHT:', '1kg']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NET</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>232</ymin>
+			<xmax>117</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>WEIGHT:</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>231</ymin>
+			<xmax>311</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1kg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>231</ymin>
+			<xmax>457</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

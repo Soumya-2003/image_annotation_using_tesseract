@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31AtaPIsZsL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31AtaPIsZsL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1], 'left': [0, 340, 340, 340, 340, 391, 391, 391, 391], 'top': [0, 661, 661, 661, 661, 676, 676, 676, 676], 'width': [1000, 320, 320, 320, 320, 226, 226, 226, 226], 'height': [1000, 2, 2, 2, 2, 43, 43, 43, 43], 'conf': [-1, -1, -1, -1, 95, -1, -1, -1, 89], 'text': ['', '', '', '', ' ', '', '', '', '25mm/1in']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>25mm/1in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>676</ymin>
+			<xmax>617</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+</annotation>

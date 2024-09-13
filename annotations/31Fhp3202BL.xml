@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31Fhp3202BL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31Fhp3202BL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>440</height>
+		<depth>{'level': [1, 2, 3, 4, 5, 2, 3, 4, 5, 4, 5, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3], 'par_num': [0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1], 'left': [0, 205, 205, 205, 205, 197, 197, 197, 197, 220, 220, 147, 147, 147, 147], 'top': [0, 82, 82, 82, 82, 273, 273, 273, 273, 293, 293, 185, 185, 185, 185], 'width': [496, 21, 21, 21, 21, 106, 106, 106, 106, 61, 61, 206, 206, 206, 206], 'height': [440, 45, 45, 45, 45, 34, 34, 15, 15, 14, 14, 235, 235, 235, 235], 'conf': [-1, -1, -1, -1, 56, -1, -1, -1, 93, -1, 0, -1, -1, -1, 95], 'text': ['', '', '', '', 'i', '', '', '', 'Nishamalaki', '', 'Prerrerat', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nishamalaki</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>273</ymin>
+			<xmax>303</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

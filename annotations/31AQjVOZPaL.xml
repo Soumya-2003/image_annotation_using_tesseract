@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>31AQjVOZPaL.jpg</filename>
+	<path>A:\ML Projects\ML\images\31AQjVOZPaL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>460</height>
+		<depth>{'level': [1, 2, 3, 4, 5], 'page_num': [1, 1, 1, 1, 1], 'block_num': [0, 1, 1, 1, 1], 'par_num': [0, 0, 1, 1, 1], 'line_num': [0, 0, 0, 1, 1], 'word_num': [0, 0, 0, 0, 1], 'left': [0, 136, 136, 136, 136], 'top': [0, 124, 124, 124, 124], 'width': [460, 180, 180, 180, 180], 'height': [460, 210, 210, 210, 210], 'conf': [-1, -1, -1, -1, 95], 'text': ['', '', '', '', '']}</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
