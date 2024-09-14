@@ -1,0 +1,7 @@
+height
+width
+item_weight
+item_volume
+wattage
+voltage
+depth
