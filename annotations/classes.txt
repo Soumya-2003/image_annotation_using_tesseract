@@ -2,6 +2,6 @@ width
 height
 depth
 item_weight
-voltage
 wattage
 item_volume
+voltage
