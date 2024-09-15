@@ -1,6 +1,7 @@
-height
 width
-wattage
-voltage
-item_weight
+height
 depth
+item_weight
+voltage
+wattage
+item_volume
